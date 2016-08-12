@@ -1,0 +1,14 @@
+{
+  "username":  "test@test.com",
+  "token":  "123456",
+  "hostname": "https://localhost",
+  "siem": "splunk",
+  "siemUrl": "https://localhost:8088/",
+  "siemToken": "ABCDEF",
+  "tickets": true,
+  "sanitizedEvents": ["None"],
+  "allowedEvents": ["All"],
+  "auditOffset": 60,
+  "ticketOffset": 30,
+  "strictSSL": false
+}
